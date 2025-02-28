@@ -3,7 +3,7 @@
 ## 🚀 Overview
 ReThread is an AI-powered **online clothing rental platform** that allows users to **rent, recycle, and thrift clothes** for various occasions. The platform integrates **AI recommendations, virtual fitting rooms, and sustainability features** to promote circular fashion.  
 
-This project was built using **Trickle AI** and submitted for [AI-Gati] .  
+  
 
 ---
 
